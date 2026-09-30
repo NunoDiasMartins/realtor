@@ -1,0 +1,59 @@
+[
+  {
+    "id": "fixture-001",
+    "url": "https://example.test/listings/fixture-001",
+    "title": "Sunny three-bedroom apartment",
+    "price": 420000,
+    "currency": "eur",
+    "bedrooms": 3,
+    "area_sqm": 105,
+    "location": "Lisbon",
+    "description": "Bright home near public transport",
+    "property_type": "Apartment"
+  },
+  {
+    "id": "fixture-002",
+    "url": "https://example.test/listings/fixture-002",
+    "title": "Two-bedroom riverside flat",
+    "price": 375000,
+    "currency": "EUR",
+    "bedrooms": 2,
+    "area_sqm": 82,
+    "location": "Almada"
+  },
+  {
+    "id": "fixture-003",
+    "url": "https://example.test/listings/fixture-003",
+    "title": "Family townhouse",
+    "price": 495000,
+    "currency": "eur",
+    "bedrooms": 4,
+    "area_sqm": 140,
+    "location": "Oeiras",
+    "description": "Garden and garage",
+    "property_type": "House"
+  },
+  {
+    "id": "fixture-004",
+    "url": "https://example.test/listings/fixture-004",
+    "title": "Luxury penthouse",
+    "price": 750000,
+    "currency": "EUR",
+    "bedrooms": 3,
+    "area_sqm": 125,
+    "location": "Lisbon",
+    "property_type": "Apartment"
+  },
+  {
+    "id": "fixture-005",
+    "url": "https://example.test/listings/fixture-005",
+    "title": "Compact city studio",
+    "price": 220000,
+    "currency": "EUR",
+    "bedrooms": 1,
+    "area_sqm": 48,
+    "location": "Lisbon",
+    "description": "Central location",
+    "property_type": "Studio"
+  }
+]
